@@ -155,7 +155,7 @@
             </objects>
             <point key="canvasLocation" x="1381.5999999999999" y="1151.8740629685158"/>
         </scene>
-        <!--Movie Grid View Controller-->
+        <!--Superhero Movies-->
         <scene sceneID="das-g2-Kax">
             <objects>
                 <viewController id="g67-fC-HQN" customClass="MovieGridViewController" customModule="flixter" customModuleProvider="target" sceneMemberID="viewController">
@@ -198,7 +198,7 @@
                         <viewLayoutGuide key="safeArea" id="WvW-5e-9NJ"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="STl-is-PPU"/>
+                    <navigationItem key="navigationItem" title="Superhero Movies" id="STl-is-PPU"/>
                     <connections>
                         <outlet property="collectionView" destination="BQT-FQ-K3o" id="MwQ-hs-kL5"/>
                     </connections>
